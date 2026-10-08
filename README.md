@@ -218,4 +218,4 @@ iSpring Presenter is available as a complete free version with all features and 
 Elevate your presentations today! Click the download button above and start creating engaging eLearning materials with iSpring Presenter.
 
 ---
-**Last updated:** 2026-10-08 06:50:56 UTC
+**Last updated:** 2026-10-08 14:13:56 UTC
